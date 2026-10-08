@@ -1,0 +1,382 @@
+{
+  "scraped": "2026-10-08",
+  "source": "https://bhcha.com/bev/",
+  "site": {
+    "name": "Beverly Hills Community Homeowners Association Inc.",
+    "short": "BHCHA",
+    "phone": "+63.906.073.4053",
+    "website": "www.bhcha.com",
+    "developer": {
+      "name": "MILLAWAVE",
+      "url": "http://millawave.net/"
+    }
+  },
+  "nav": [
+    [
+      "Home",
+      "https://bhcha.com/bev/"
+    ],
+    [
+      "About",
+      "https://bhcha.com/bev/index.php?id=about"
+    ],
+    [
+      "Organization",
+      "https://bhcha.com/bev/index.php?id=organization"
+    ],
+    [
+      "Updates",
+      "https://bhcha.com/bev/index.php?id=updates"
+    ],
+    [
+      "Downloads",
+      "https://bhcha.com/bev/index.php?id=downloads"
+    ],
+    [
+      "Contact",
+      "https://bhcha.com/bev/index.php?id=contact"
+    ]
+  ],
+  "footer_links": [
+    [
+      "Discussion Board",
+      "http://bhcha.com/board"
+    ],
+    [
+      "File Repository",
+      "http://bhcha.com/cloud/"
+    ],
+    [
+      "Mail Server",
+      "http://bhcha.com/mail/"
+    ],
+    [
+      "Online Accounting",
+      "https://bhcom.org/board/index.php?action=agreement"
+    ]
+  ],
+  "socials": [
+    [
+      "Join our Forum",
+      "https://bhcom.org/board/index.php?action=signup"
+    ],
+    [
+      "Facebook Page",
+      "https://www.facebook.com/profile.php?id=61571980777040"
+    ],
+    [
+      "Facebook Group",
+      "https://www.facebook.com/groups/633205035719205"
+    ]
+  ],
+  "governing_documents": [
+    {
+      "title": "2024 Articles of Incorporation",
+      "url": "https://bhcha.com/cloud/?r=/download&path=L0FSVElDTEVTIE9GIElOQ09SUE9SQVRJT04gLVVucmVzdHJpY3RlZC9BT0kgQkhDSEFJLnBkZg%3D%3D"
+    },
+    {
+      "title": "2024 Bylaws",
+      "url": "https://bhcha.com/cloud/?r=/download&path=L0JZTEFXUyBvZiBCSENIQUkuICAtIFVucmVzdHJpY3RlZC9hbWVuZGVkYnlsYXdzYmhjaGFpLnBkZg%3D%3D"
+    },
+    {
+      "title": "2024 Rules & Regulations",
+      "url": "https://bhcom.org/cloud/?r=/download&path=L1JVTEVTICYgUkVTVFJJQ1RJT05TICBVbnJlc3RyaWN0ZWQvQkhDSEEgUnVsZXMgYW5kIFJlZ3VsYXRpb25zLnBkZg%3D%3D"
+    },
+    {
+      "title": "2024 Declaration of Covenants, Conditions & Restrictions",
+      "url": null
+    },
+    {
+      "title": "2024 Guidelines & Due Process Enforcement Procedures",
+      "url": null
+    }
+  ],
+  "updates": {
+    "announcement": [
+      {
+        "title": "January 18, 2025 Town Hall Meeting",
+        "url": "https://bhcha.com/cloud/?r=/download&path=L0FOTk9VTkNFTUVOVC4gLSBVbnJlc3RyaWN0ZWQgLzE4IEphbiBUSF9GbHllciBmb3IgUHJpbnRpbmcgKGNvbG9yZWQpLnBkZg%3D%3D"
+      },
+      {
+        "title": "BHCHA message to Residents",
+        "url": "https://bhcom.org/cloud/?r=/download&path=L0FOTk9VTkNFTUVOVC4gLSBVbnJlc3RyaWN0ZWQgL0JIQ0hBIG1lc3NhZ2UgdG8gUmVzaWRlbnRzLnBuZw%3D%3D"
+      }
+    ],
+    "events": [],
+    "board_meetings": [],
+    "projects": [],
+    "presentations": [
+      {
+        "title": "BHCHA Overview Material_29 Dec 2024",
+        "url": "http://bhcha.com/cloud/?r=/download&path=L1BSRVNFTlRBVElPTlMgVW5yZXN0cmljdGVkL0JIQ0hBIE92ZXJ2aWV3IE1hdGVyaWFsXzI5IERlYyAyMDI0LnBwdHg%3D"
+      },
+      {
+        "title": "A Fresh Start - Handout_BHCHA Presentation 18 Jan 2025",
+        "url": "http://bhcha.com/cloud/?r=/download&path=L1BSRVNFTlRBVElPTlMgVW5yZXN0cmljdGVkL0hhbmRvdXRfQkhDSEEgUHJlc2VudGF0aW9uIDE4IEphbiAyMDI1X0ZpbmFsLnBkZg%3D%3D"
+      }
+    ],
+    "articles": []
+  },
+  "folders": [
+    {
+      "label": "ANNOUNCEMENT",
+      "url": "https://bhcha.com/cloud/#/?cd=%2FANNOUNCEMENT.%20-%20Unrestricted%20"
+    },
+    {
+      "label": "ARTICLES OF INCORPORATION",
+      "url": "https://bhcha.com/cloud/#/?cd=%2FARTICLES%20OF%20INCORPORATION%20-Unrestricted"
+    },
+    {
+      "label": "BYLAWS",
+      "url": "https://bhcha.com/cloud/#/?cd=%2FBYLAWS%20of%20BHCHAI.%20%20-%20Unrestricted"
+    },
+    {
+      "label": "DSHUD DOCS",
+      "url": "https://bhcha.com/cloud/#/?cd=%2FDSHUD%20DOCS-%20Unrestricted"
+    },
+    {
+      "label": "ELECTION DOCS",
+      "url": "https://bhcha.com/cloud/#/?cd=%2FElection%20Docs"
+    },
+    {
+      "label": "EVENTS",
+      "url": "https://bhcha.com/cloud/#/?cd=%2FEVENTS.%20Unrestricted%20"
+    },
+    {
+      "label": "FORMS",
+      "url": "https://bhcha.com/cloud/#/?cd=%2FFORMS%20Unrestricted"
+    },
+    {
+      "label": "ISSUANCES",
+      "url": "https://bhcha.com/cloud/#/?cd=%2FISSUANCES.%20Unrestricted"
+    },
+    {
+      "label": "LEGAL DOCS",
+      "url": "https://bhcha.com/cloud/#/?cd=%2FLEGAL%20DOCS.%20Unrestricted"
+    },
+    {
+      "label": "MEETINGS",
+      "url": "https://bhcha.com/cloud/#/?cd=%2FMEETINGS%20Unrestricted"
+    },
+    {
+      "label": "MISCELLANEOUS",
+      "url": "https://bhcha.com/cloud/#/?cd=%2FMISCELLANEOUS.%20Unrestricted"
+    },
+    {
+      "label": "PRESENTATIONS",
+      "url": "https://bhcha.com/cloud/#/?cd=%2FPRESENTATIONS%20Unrestricted"
+    },
+    {
+      "label": "REPORTS",
+      "url": "https://bhcha.com/cloud/#/?cd=%2FREPORTS.%20Unrestricted"
+    },
+    {
+      "label": "RULES & RESTRICTIONS",
+      "url": "https://bhcha.com/cloud/#/?cd=%2FRULES%20%26%20RESTRICTIONS%20%20Unrestricted"
+    },
+    {
+      "label": "UTILITIES",
+      "url": "https://bhcha.com/cloud/#/?cd=%2FUTILITIES.%20Unrestricted"
+    },
+    {
+      "label": "GUIDELINES",
+      "url": null
+    },
+    {
+      "label": "OTHERS",
+      "url": null
+    }
+  ],
+  "board": [
+    {
+      "name": "Sebastian Quiniones",
+      "role": "President"
+    },
+    {
+      "name": "Miguel Castro",
+      "role": "Vice President"
+    },
+    {
+      "name": "Myra Reinoso",
+      "role": "Secretary & Treasurer"
+    },
+    {
+      "name": "Bernardita McFarland",
+      "role": "Board of Trustees"
+    },
+    {
+      "name": "Ed Millana",
+      "role": "Board of Trustees"
+    }
+  ],
+  "committees": [
+    {
+      "name": null,
+      "role": "Covenant"
+    },
+    {
+      "name": "Arturo Cervania",
+      "role": "Electoral"
+    },
+    {
+      "name": null,
+      "role": "Budget & Financial"
+    },
+    {
+      "name": null,
+      "role": "Architectural"
+    },
+    {
+      "name": "Richelle Capellan",
+      "role": "Social & Communications"
+    },
+    {
+      "name": null,
+      "role": "Dispute & Resolution"
+    },
+    {
+      "name": null,
+      "role": "Legal"
+    },
+    {
+      "name": "Rodel Livelo",
+      "role": "Security & Safety"
+    }
+  ],
+  "management": [
+    {
+      "name": null,
+      "role": "Admin"
+    },
+    {
+      "name": null,
+      "role": "Accounting"
+    },
+    {
+      "name": null,
+      "role": "Engineering"
+    },
+    {
+      "name": null,
+      "role": "Maintenance"
+    }
+  ],
+  "contact": {
+    "registered_address": "No. 11 Poinsettia Drive, Beverly Hills Taytay Rizal",
+    "satellite_office": "No. 14 Beverly Hills Ave., Beverly Hills Antipolo City",
+    "phone": "+63.906.073.4053",
+    "website": "www.bhcha.com",
+    "emails": {
+      "General Inquiry": "info@bhcha.com",
+      "Management": "management@bhcha.com",
+      "Administration": "admin@bhcha.com",
+      "Support & Security": "support@bhcha.com",
+      "Accounting": "accounting@bhcha.com"
+    },
+    "hours": {
+      "open": "Monday – Friday, 9am – 6pm",
+      "closed": "weekends and national holidays"
+    },
+    "discussion_board": "https://bhcom.org/board/"
+  },
+  "emergency_numbers": [
+    {
+      "service": "Security Guard Antipolo Gate",
+      "numbers": null
+    },
+    {
+      "service": "Security Guard Taytay Outpost",
+      "numbers": null
+    },
+    {
+      "service": "Barangay Beverly",
+      "numbers": null
+    },
+    {
+      "service": "Antipolo LGU",
+      "numbers": [
+        "0927.7559911",
+        "(02)8696.9911"
+      ]
+    },
+    {
+      "service": "Antipolo Police",
+      "numbers": [
+        "0920.8988369",
+        "0966.2992229",
+        "(02)8697.2409",
+        "(02)8529.5856"
+      ]
+    },
+    {
+      "service": "Antipolo Fire Station",
+      "numbers": [
+        "(02)8871.2865",
+        "(02)8571.4648",
+        "(02)8250.0497"
+      ]
+    },
+    {
+      "service": "Hospitals",
+      "numbers": [
+        "(02)8639.8453",
+        "(02)8251.7559",
+        "(02)8240.5683",
+        "(02)8240.5132"
+      ]
+    },
+    {
+      "service": "Barangay Dolores",
+      "numbers": [
+        "0998.8878677",
+        "(02)8658.9874"
+      ]
+    },
+    {
+      "service": "Taytay LGU",
+      "numbers": [
+        "(02)8284.4770",
+        "(02)8286.6159"
+      ]
+    },
+    {
+      "service": "Taytay Police",
+      "numbers": [
+        "0936.9507608",
+        "0998.5985730"
+      ]
+    },
+    {
+      "service": "Taytay Fire Station",
+      "numbers": [
+        "(02)8661.9887",
+        "(02)896.5258"
+      ]
+    },
+    {
+      "service": "Taytay Hospital",
+      "numbers": [
+        "0917.1659009",
+        "0917.6250065",
+        "(02)8571.4858"
+      ]
+    },
+    {
+      "service": "Meralco",
+      "numbers": [
+        "16211"
+      ]
+    },
+    {
+      "service": "Manila Waters",
+      "numbers": [
+        "1627"
+      ]
+    }
+  ],
+  "notes": [
+    "null name = shown as 'xxxxxxxx xxxxxxxx' on the live site",
+    "null emergency number = shown as 'xxxx.xxxxxxx'",
+    "null folder/document url = listed but not linked on the live site"
+  ]
+}
