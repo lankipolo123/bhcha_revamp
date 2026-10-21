@@ -1,0 +1,52 @@
+/* Mimics the layout of bhcha.com/bev (Boom theme) */
+* { box-sizing: border-box; }
+body { margin: 0; padding-top: 48px; background: #2e2e2e; font: 13px/1.6 Arial, Helvetica, sans-serif; color: #666; position: relative; }
+body::before { content: ""; position: absolute; top: 0; left: 0; right: 0; height: 860px; z-index: -1;
+  background: repeating-linear-gradient(45deg, #353535 0 2px, #3d3d3d 2px 4px); }
+a { color: #444; }
+a:hover { color: #72b626; }
+#wrapper { max-width: 1120px; margin: 0 auto; background: #fff; }
+.container { padding-left: 38px; padding-right: 38px; }
+#header { display: flex; justify-content: space-between; align-items: flex-start; padding-top: 28px; padding-bottom: 28px; }
+#logo a { font-size: 40px; color: #72b626; text-decoration: none; vertical-align: middle; }
+#logo span { font-size: 13px; color: #666; text-transform: uppercase; border-left: 1px solid #cfcfcf; padding-left: 8px; margin-left: 8px; vertical-align: middle; }
+.phone { color: #666; padding-top: 12px; }
+#nav { list-style: none; margin: 0; padding: 0; background: #303030; display: flex; flex-wrap: wrap; }
+#nav li a { display: block; color: #fff; text-decoration: none; padding: 16px 24px; position: relative; }
+#nav li a::after { content: ""; position: absolute; right: 0; top: 20px; height: 13px; border-right: 1px solid #4e4e4e; }
+#nav li.active a { background: #72b626; }
+#nav li.active a::after { display: none; }
+.banner { margin-top: 19px; height: 390px; background: linear-gradient(135deg, #4e7d1c, #9ccc4a 60%, #5f8f22); display: flex; align-items: flex-end; padding: 24px; }
+.banner.photo { background: center / cover no-repeat; }
+.banner span { color: #2f5f12; font: bold 22px/1.1 Arial, sans-serif; text-transform: uppercase; background: rgba(255,255,255,.35); padding: 8px 12px; }
+.page-title { margin-top: 40px; }
+.page-title div { border-bottom: 1px solid #e2e2e2; }
+.page-title h1 { margin: 0 0 -2px; font-weight: normal; font-size: 24px; color: #303030; padding-bottom: 20px; display: inline-block; border-bottom: 3px solid #72b626; min-width: 95px; }
+.cols { display: flex; gap: 40px; padding-top: 40px; padding-bottom: 40px; }
+.main { flex: 2; min-width: 0; text-align: justify; }
+.side { flex: 1; min-width: 200px; }
+.side h3 { color: #303030; font-size: 17px; margin: 0 0 18px; }
+.side ul { padding-left: 20px; margin: 0 0 6px; }
+.side li { margin-bottom: 12px; }
+.main p { margin: 0 0 18px; }
+.main ul { padding-left: 20px; }
+.main li { margin-bottom: 12px; text-align: left; }
+.main hr { border: 0; border-top: 1px solid #cfcfcf; margin: 20px 0 40px; }
+.people { text-align: center; }
+.people h4 { color: #555; margin: 0 0 14px; font-size: 13px; }
+.people b { color: #555; }
+.label { font-weight: bold; color: #555; }
+table.em { border-collapse: collapse; width: 100%; }
+table.em td { padding: 4px 8px 4px 0; vertical-align: top; text-align: left; }
+#footer { background: #303030; max-width: 1120px; margin: 0 auto 48px; display: flex; justify-content: space-between; padding: 22px 38px; color: #aaa; }
+#footer a { color: #aaa; }
+@media (max-width: 767px) {
+  body { padding-top: 0; }
+  .container { padding-left: 16px; padding-right: 16px; }
+  #header { flex-direction: column; }
+  #logo span { display: block; border: 0; margin: 4px 0 0; padding: 0; }
+  .cols { flex-direction: column; }
+  .banner { height: 180px; }
+  #nav li a { padding: 12px 14px; }
+  #footer { padding: 18px 16px; margin-bottom: 0; }
+}
